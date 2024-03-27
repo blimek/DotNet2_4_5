@@ -22,7 +22,7 @@ namespace DotNet2_4_5
             Console.WriteLine("Ile masz lat ?");
             byte wiek = byte.Parse(Console.ReadLine());
             Console.WriteLine("Ile ważysz ?");
-            byte waga = byte.Parse(Console.ReadLine());
+            double waga = byte.Parse(Console.ReadLine());
             Console.WriteLine("Ile mierzysz ?");
             byte wzrost = byte.Parse(Console.ReadLine());
 
